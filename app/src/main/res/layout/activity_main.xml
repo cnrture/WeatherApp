@@ -31,7 +31,6 @@
             android:layout_width="match_parent"
             android:layout_height="match_parent"
             android:alpha="0.7"
-            android:background="@drawable/sky"
             android:contentDescription="TODO"
             app:srcCompat="@drawable/background_cardview" />
 
