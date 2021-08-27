@@ -344,7 +344,7 @@
         android:layout_marginStart="40dp"
         android:layout_marginTop="20dp"
         android:fontFamily="sans-serif-condensed-medium"
-        android:text="Last 4 Days"
+        android:text="Next 4 Days"
         android:textColor="#000000"
         android:textSize="20sp"
         app:layout_constraintBottom_toTopOf="@+id/todayWeatherMiniCard"
